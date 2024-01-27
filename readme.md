@@ -8,26 +8,34 @@ N.O.V.A.S is more than just a tool; it's your companion in the digital world, st
 
 In this guide, we'll explore how N.O.V.A.S operates and how it empowers you to navigate the internet with confidence and clarity. Join us on this journey as we unveil the secrets to a safer and more transparent online experience with N.O.V.A.S.
 
-- [N.O.V.A.S - Nurturing Online Vigilance with Advanced Safeguards](#novas---nurturing-online-vigilance-with-advanced-safeguards)
-  - [Approach](#approach)
+1. [Approach](#approach)
+   
     - [Semantic Analysis](#semantic-analysis)
     - [Visual Analysis](#visual-analysis)
     - [Integration](#integration)
     - [Real-time Detection](#real-time-detection)
-  - [System Architecture](#system-architecture)
+      
+3. [System Architecture](#system-architecture)
+   
     - [Extension Architecture Overview:](#extension-architecture-overview)
     - [Mobile Application Architecture Overview:](#mobile-application-architecture-overview)
-  - [The Extension's Backend](#the-extensions-backend)
+      
+5. [The Extension's Backend](#the-extensions-backend)
+   
     - [Dataset](#dataset)
     - [TFIDF Preprocessing](#tfidf-preprocessing)
     - [Model Accuracy Comparison](#model-accuracy-comparison)
     - [XGBoost Model Configuration](#xgboost-model-configuration)
-  - [The Mobiles Backend API](#the-mobiles-backend-api)
+      
+7. [The Mobiles Backend API](#the-mobiles-backend-api)
+   
     - [Purpose](#purpose)
     - [How It Works](#how-it-works)
-      - [Key Features](#key-features)
+    - [Key Features](#key-features)
     - [Integration](#integration-1)
-  - [Setting up Chrome Extension](#setting-up-chrome-extension)
+      
+9. [Setting up Chrome Extension](#setting-up-chrome-extension)
+
     - [Prerequisites](#prerequisites)
     - [Getting Started](#getting-started)
 
