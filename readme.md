@@ -9,7 +9,10 @@ N.O.V.A.S is more than just a tool, it's your companion in the digital world, st
 In this guide, we'll explore how N.O.V.A.S operates and how it empowers you to navigate the internet with confidence and clarity. Join us on this journey as we unveil the secrets to a safer and more transparent online experience with N.O.V.A.S.
 
 ## Table Of Contents
-1. [Approach](#approach)
+
+1. [Presentation](#presentation)
+
+2. [Approach](#approach)
    
     - [Semantic Analysis](#semantic-analysis)
     - [Visual Analysis](#visual-analysis)
@@ -21,26 +24,26 @@ In this guide, we'll explore how N.O.V.A.S operates and how it empowers you to n
     - [Extension Architecture Overview:](#extension-architecture-overview)
     - [Mobile Application Architecture Overview:](#mobile-application-architecture-overview)
       
-5. [The Extension's Backend](#the-extensions-backend)
+4. [The Extension's Backend](#the-extensions-backend)
    
     - [Dataset](#dataset)
     - [TFIDF Preprocessing](#tfidf-preprocessing)
     - [Model Accuracy Comparison](#model-accuracy-comparison)
     - [XGBoost Model Configuration](#xgboost-model-configuration)
       
-7. [The Mobiles Backend API](#the-mobiles-backend-api)
+5. [The Mobiles Backend API](#the-mobiles-backend-api)
    
     - [Purpose](#purpose)
     - [How It Works](#how-it-works)
     - [Key Features](#key-features)
     - [Integration](#integration-1)
       
-9. [Setting up Chrome Extension](#setting-up-chrome-extension)
+6. [Setting up Chrome Extension](#setting-up-chrome-extension)
 
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
       
-10. [Seting Up Mobile Application](#seting-up-mobile-application)
+7. [Seting Up Mobile Application](#seting-up-mobile-application)
     - [Setting up the Flutter SDK](#setting-up-the-flutter-sdk)
     - [Extracting NOVA and Setting up Dependencies:](#extracting-nova-and-setting-up-dependencies)
     - [Connecting to the Backend:](#connecting-to-the-backend)
@@ -49,7 +52,13 @@ In this guide, we'll explore how N.O.V.A.S operates and how it empowers you to n
     - [Using the App on Mobile:](#using-the-app-on-mobile)
     - [Using the Application:](#using-the-application)
 
-11. [Future Scope](#future-scope)
+8. [Future Scope](#future-scope)
+
+## Presentation
+
+[Dark Patterns Busters Hackathon 2023 Presentation - by Team NOVAS](/DPBH_2023_Presentation.pdf)
+
+<br>
 
 ## Approach
 
