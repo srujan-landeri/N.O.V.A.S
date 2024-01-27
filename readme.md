@@ -228,14 +228,14 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### Extracting NOVA and Setting up Dependencies:
-Extract the source code from the `NOVA Dark Pattern Buster Mobile Application Source Code` file and save the extracted directory. The following video shows how to extract and navigate to the required directory using Windows 11 and VS Code.
+Extract the source code from the `mobile_app` file and save the extracted directory. The following video shows how to extract and navigate to the required directory using Windows 11 and VS Code.
 
 https://github.com/srujan-landeri/N.O.V.A.S/assets/66351075/98bcc8ad-6f9a-4770-b8f8-429f285610e0
 
 The file structure of the application follows native Flutter scaffolding, as instantiated when creating a new Flutter Application in VS Code using the Flutter SDK. 
 
 ```
-/--NOVA Dark Patterns Buster Mobile Application (Source Code)
+/--mobile_app
       /--Dark Patterns Back End Comms
             /------.idea
             /------main
@@ -279,8 +279,8 @@ dependencies:
 To start setting up the application, navigate to the main folder of the app using the command line or terminal. You may also choose to directly open the main folder in any IDE (VSCode, Sublime, Android Studio):
 
 ```
-PS C:\Users\USER_1\Downloads\NOVA - Dark Patterns Buster Mobile Application (Source Code)> cd '.\Dark Patterns Back End Comms\'
-PS C:\Users\USER_1\Downloads\NOVA - Dark Patterns Buster Mobile Application (Source Code)\Dark Patterns Back End Comms> cd .\main\ 
+PS C:\Users\USER_1\Downloads\NOVA - mobile_app> cd '.\Dark Patterns Back End Comms\'
+PS C:\Users\USER_1\Downloads\NOVA - mobile_app\Dark Patterns Back End Comms> cd .\main\ 
 ```
 
 Upon navigation install the dependencies onto your development machine using the following commands
@@ -315,7 +315,7 @@ It is required to set up the backend of the application. Configure the URI on li
 - Once enabled, connect your device to the developer machine via USB and follow the on-screen prompts on your phone to set up the system as a trusted device.
 - To confirm that the device has been connected and visible to the Flutter SDK, run the collowing command in your development environment:
   ```
-  PS C:\Users\USER_1\Downloads\NOVA - Dark Patterns Buster Mobile Application (Source Code)\Dark Patterns Back End Comms> main> flutter devices
+  PS C:\Users\USER_1\Downloads\NOVA - mobile_app\Dark Patterns Back End Comms> main> flutter devices
   ```
 - All available devices will be displayed in the terminal
   ```
@@ -331,7 +331,7 @@ It is required to set up the backend of the application. Configure the URI on li
 
 - Run the Flutter app on the Android Device by using the following command
   ```
-  PS C:\Users\USER_1\Downloads\NOVA - Dark Patterns Buster Mobile Application (Source Code)\Dark Patterns Back End Comms> main> flutter run 
+  PS C:\Users\USER_1\Downloads\NOVA - mobile_app\Dark Patterns Back End Comms> main> flutter run 
   ```
 - Upon being prompted choose the device that should run the Flutter Application (Your device will be connected automatically if it is the only environment available)
   ```
@@ -365,6 +365,10 @@ https://github.com/srujan-landeri/N.O.V.A.S/assets/66351075/8067f710-cd29-408b-b
 ## Future Scope
 
 In the ongoing effort to keep the model current, a dataset will be systematically constructed by scraping information from the dark patterns channel on Reddit, a platform known for providing regular updates on emerging dark patterns. This initiative seeks to create a dynamic, crowd-sourced, and open-source database that is easily accessible for various applications. The collected dataset can be further transformed into a Knowledge Graph, enabling queries and insights extraction related to dark patterns. Leveraging Language Model-based queries will enhance the precision of information retrieval.
+
+Also, the mobile application will be converted into a widget/overlay based format. For a demo of that application, follow the same steps given in [Seting Up Mobile Application](#seting-up-mobile-application), and once flutter project is done, add "sample_widget/log.dart" in lib folder.
+
+# add video here
 
 Moreover, it's crucial to note that the model will undergo regular updates to align with the evolving landscape of dark patterns, ensuring its continued effectiveness and relevance.
 
