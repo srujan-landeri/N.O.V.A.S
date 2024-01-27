@@ -221,7 +221,7 @@ samples, guidance on mobile development, and a full API reference.
 ### Extracting NOVA and Setting up Dependencies:
 Extract the source code from the `NOVA Dark Pattern Buster Mobile Application Source Code` file and save the extracted directory. The following video shows how to extract and navigate to the required directory using Windows 11 and VS Code.
 
-https://github.com/PreranaYekkele/DPBH/assets/95875573/04b950f1-39d9-4db7-8a4e-e7124f71f911
+https://github.com/srujan-landeri/N.O.V.A.S/assets/66351075/98bcc8ad-6f9a-4770-b8f8-429f285610e0
 
 The file structure of the application follows native Flutter scaffolding, as instantiated when creating a new Flutter Application in VS Code using the Flutter SDK. 
 
@@ -298,8 +298,6 @@ It is required to set up the backend of the application. Configure the URI on li
 - Using an API connected to a remote / cloud server
   - `var url = Uri.parse('http://CLOUD_API_END_POINT/detect_darkness');`
 
-
-
 ### Connecting to an Android Device:
 
 - Ensure that `Developer Options` and `USB Debugging` are enabled on your Android device. Please make use of the following resources to set up USB Debugging:
@@ -343,7 +341,7 @@ It is required to set up the backend of the application. Configure the URI on li
   ```
 - The SDK will begin building the application on your mobile device
 
-https://github.com/PreranaYekkele/DPBH/assets/95875573/7699b57f-bc17-49d1-a1b9-8548f08b5a54
+https://github.com/srujan-landeri/N.O.V.A.S/assets/66351075/7f67b4e2-82f7-4eee-a02d-a95ff7de7696
 
 ### Using the App on Mobile:
 The application is now ready for use on the mobile application. 
@@ -353,7 +351,7 @@ __NOTE__: Any changes made to the application while the app is running will requ
 ### Using the Application:
 The application in the video (Horus Dark Patterns Buster) is our working prototype of the Flutter Application.
 
-https://github.com/PreranaYekkele/DPBH/assets/95875573/8b4dafbe-c395-4616-8474-632bd84add17
+https://github.com/srujan-landeri/N.O.V.A.S/assets/66351075/8067f710-cd29-408b-bf39-db9d6cb6d356
 
 ## Future Scope
 
