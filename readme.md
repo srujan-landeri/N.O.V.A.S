@@ -38,6 +38,7 @@ In this guide, we'll explore how N.O.V.A.S operates and how it empowers you to n
 
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
+11. [Future Scope](#future-scope)
 
 ## Approach
 
@@ -195,4 +196,11 @@ The NOVAS mobile API is designed for easy integration into the mobile applicatio
     - Locate the extension icon in the toolbar.
 
 https://github.com/PreranaYekkele/DPBH/assets/66351075/4cb62686-0db4-4a3b-9680-a2684b07693b
+
+
+## Future Scope
+
+In the ongoing effort to keep the model current, a dataset will be systematically constructed by scraping information from the dark patterns channel on Reddit, a platform known for providing regular updates on emerging dark patterns. This initiative seeks to create a dynamic, crowd-sourced, and open-source database that is easily accessible for various applications. The collected dataset can be further transformed into a Knowledge Graph, enabling queries and insights extraction related to dark patterns. Leveraging Language Model-based queries will enhance the precision of information retrieval.
+
+Moreover, it's crucial to note that the model will undergo regular updates to align with the evolving landscape of dark patterns, ensuring its continued effectiveness and relevance.
 
