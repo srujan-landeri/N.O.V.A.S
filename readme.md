@@ -357,5 +357,9 @@ https://github.com/srujan-landeri/N.O.V.A.S/assets/66351075/8067f710-cd29-408b-b
 
 In the ongoing effort to keep the model current, a dataset will be systematically constructed by scraping information from the dark patterns channel on Reddit, a platform known for providing regular updates on emerging dark patterns. This initiative seeks to create a dynamic, crowd-sourced, and open-source database that is easily accessible for various applications. The collected dataset can be further transformed into a Knowledge Graph, enabling queries and insights extraction related to dark patterns. Leveraging Language Model-based queries will enhance the precision of information retrieval.
 
+Also, the mobile application will be converted into a widget/overlay based format. For a demo of that application, follow the same steps given in [Seting Up Mobile Application](#seting-up-mobile-application), and once flutter project is done, add "sample_widget/log.dart" in lib folder.
+
+# add video here
+
 Moreover, it's crucial to note that the model will undergo regular updates to align with the evolving landscape of dark patterns, ensuring its continued effectiveness and relevance.
 
