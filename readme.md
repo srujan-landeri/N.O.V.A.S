@@ -37,7 +37,7 @@ In this guide, we'll explore how N.O.V.A.S operates and how it empowers you to n
 9. [Setting up Chrome Extension](#setting-up-chrome-extension)
 
     - [Prerequisites](#prerequisites)
-    - [Getting Started](#getting-started)
+    - [Setup](#setup)
 
 ## Approach
 
@@ -154,7 +154,7 @@ The NOVAS mobile API is designed for easy integration into the mobile applicatio
 
 - Chromium Based Borwser like chrome, brave, or edge.
 
-### Getting Started
+### Setup
 
 1. **Download and Extract the Project:**
 
