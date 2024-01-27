@@ -8,7 +8,28 @@ N.O.V.A.S is more than just a tool; it's your companion in the digital world, st
 
 In this guide, we'll explore how N.O.V.A.S operates and how it empowers you to navigate the internet with confidence and clarity. Join us on this journey as we unveil the secrets to a safer and more transparent online experience with N.O.V.A.S.
 
-This index will help users navigate through different sections in your readme easily.
+- [N.O.V.A.S - Nurturing Online Vigilance with Advanced Safeguards](#novas---nurturing-online-vigilance-with-advanced-safeguards)
+  - [Approach](#approach)
+    - [Semantic Analysis](#semantic-analysis)
+    - [Visual Analysis](#visual-analysis)
+    - [Integration](#integration)
+    - [Real-time Detection](#real-time-detection)
+  - [System Architecture](#system-architecture)
+    - [Extension Architecture Overview:](#extension-architecture-overview)
+    - [Mobile Application Architecture Overview:](#mobile-application-architecture-overview)
+  - [The Extension's Backend](#the-extensions-backend)
+    - [Dataset](#dataset)
+    - [TFIDF Preprocessing](#tfidf-preprocessing)
+    - [Model Accuracy Comparison](#model-accuracy-comparison)
+    - [XGBoost Model Configuration](#xgboost-model-configuration)
+  - [The Mobiles Backend API](#the-mobiles-backend-api)
+    - [Purpose](#purpose)
+    - [How It Works](#how-it-works)
+      - [Key Features](#key-features)
+    - [Integration](#integration-1)
+  - [Setting up Chrome Extension](#setting-up-chrome-extension)
+    - [Prerequisites](#prerequisites)
+    - [Getting Started](#getting-started)
 
 ## Approach
 
