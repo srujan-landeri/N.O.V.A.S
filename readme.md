@@ -8,6 +8,7 @@ N.O.V.A.S is more than just a tool; it's your companion in the digital world, st
 
 In this guide, we'll explore how N.O.V.A.S operates and how it empowers you to navigate the internet with confidence and clarity. Join us on this journey as we unveil the secrets to a safer and more transparent online experience with N.O.V.A.S.
 
+## Table Of Contents
 1. [Approach](#approach)
    
     - [Semantic Analysis](#semantic-analysis)
