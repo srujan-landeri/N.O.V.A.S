@@ -368,7 +368,7 @@ In the ongoing effort to keep the model current, a dataset will be systematicall
 
 Also, the mobile application will be converted into a widget/overlay based format. For a demo of that application, follow the same steps given in [Seting Up Mobile Application](#seting-up-mobile-application), and once flutter project is done, add "sample_widget/log.dart" in lib folder.
 
-# add video here
+https://github.com/srujan-landeri/N.O.V.A.S/assets/66351075/b7150cd2-5c62-4d8b-92bb-060ba55585c3
 
 Moreover, it's crucial to note that the model will undergo regular updates to align with the evolving landscape of dark patterns, ensuring its continued effectiveness and relevance.
 
