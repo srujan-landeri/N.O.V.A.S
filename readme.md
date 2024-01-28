@@ -102,7 +102,7 @@ Users kickstart the screenshot analysis process in the mobile app by uploading a
 
 To ensure data integrity and privacy during the transport process to the centralized servers, the data is first encrypted in a Base64 format to ensure maximum security and then constructed into an encrypted 3D Matrix for maximum obfuscation. The securely transmitted data includes both the Base64-encoded screenshot image and the extracted text, ensuring data integrity throughout the process.
 
-On the server side, machine learning algorithms analyze the Base64-encoded text data and concurrently examine the screenshot image for the presence of dark patterns. If identified, the Python server dynamically modifies the image to highlight detected dark patterns while preserving the original context.
+On the server side, machine learning algorithms analyze the encoded data for the presence of dark patterns. If identified, the Python server dynamically modifies the image to highlight detected dark patterns while preserving the original context.
 
 The enhanced image, along with any additional data, is then transmitted back to the mobile application, creating a feedback loop. Upon receiving the server response, the mobile app decodes any Base64-encoded data, ensuring accurate interpretation and display.
 
