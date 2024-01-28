@@ -364,11 +364,16 @@ https://github.com/srujan-landeri/N.O.V.A.S/assets/66351075/8067f710-cd29-408b-b
 
 ## Future Scope
 
-In the ongoing effort to keep the model current, a dataset will be systematically constructed by scraping information from the dark patterns channel on Reddit, a platform known for providing regular updates on emerging dark patterns. This initiative seeks to create a dynamic, crowd-sourced, and open-source database that is easily accessible for various applications. The collected dataset can be further transformed into a Knowledge Graph, enabling queries and insights extraction related to dark patterns. Leveraging Language Model-based queries will enhance the precision of information retrieval.Here is an example of a graph based database that can be queried to extract context using *Generative AI models*. A Knowledge Graph is used because it is able to depict context better and saves a lot of resources as compared to fine tuning a model.
+In the ongoing effort to keep the model current, a dataset will be systematically constructed by scraping information from the dark patterns channel on Reddit, a platform known for providing regular updates on emerging dark patterns. This initiative seeks to create a dynamic, crowd-sourced, and open-source database that is easily accessible for various applications. The collected dataset can be further transformed into a Knowledge Graph, enabling queries and insights extraction related to dark patterns. Leveraging Language Model-based queries will enhance the precision of information retrieval. Here is an example of a graph-based database that can be queried to extract context using *Generative AI models*. A Knowledge Graph is used because it can depict context better and saves a lot of resources as compared to fine-tuning a model.
 
 
 https://github.com/srujan-landeri/N.O.V.A.S/assets/88940647/7832d1f6-1b7f-42bb-b795-436f1d96d830
 
+The below image depicts the proposed system architecture to build Knowledge Graphs from crowd-sourced data using Open Source Large Language Models. This will ensure that the database can be updated with little to no cost, while also maintaining context and updated data. This method, also known as Graph Retrieval Augmented Generation (GRAG) is a powerful way to circumvent the costly endeavor of fine-tuning large language models for specialized use cases.
+
+The generated knowledge graph can be queried using a ChatBot-like interface using LLMs and visualization buckets such as Neo4j.
+
+![image](https://github.com/srujan-landeri/N.O.V.A.S/assets/95875573/d23e0fdc-cc5d-4daf-b820-ac7083b6d497)
 
 
 
