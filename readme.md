@@ -364,7 +364,7 @@ https://github.com/srujan-landeri/N.O.V.A.S/assets/66351075/8067f710-cd29-408b-b
 
 ## Future Scope
 
-In the ongoing effort to keep the model current, a dataset will be systematically constructed by scraping information from the dark patterns channel on Reddit, a platform known for providing regular updates on emerging dark patterns. This initiative seeks to create a dynamic, crowd-sourced, and open-source database that is easily accessible for various applications. The collected dataset can be further transformed into a Knowledge Graph, enabling queries and insights extraction related to dark patterns. Leveraging Language Model-based queries will enhance the precision of information retrieval. Here is an example of a graph-based database that can be queried to extract context using *Generative AI models*. A Knowledge Graph is used because it can depict context better and saves a lot of resources as compared to fine-tuning a model.
+In the ongoing effort to keep the model current, a dataset will be systematically constructed by scraping information from the dark patterns channel on Reddit, a platform known for providing regular updates on emerging dark patterns. This initiative seeks to create a dynamic, crowd-sourced, and open-source database that is easily accessible for various applications. The collected dataset can be further transformed into a Knowledge Graph, enabling queries and insights extraction related to dark patterns. Leveraging Language Model-based queries will enhance the precision of information retrieval. Here is an example of a graph-based database that can be queried to extract context using *Generative AI models*. 
 
 
 https://github.com/srujan-landeri/N.O.V.A.S/assets/88940647/7832d1f6-1b7f-42bb-b795-436f1d96d830
