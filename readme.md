@@ -100,7 +100,7 @@ This architecture maintains a clear flow of communication between the user inter
 
 Users kickstart the screenshot analysis process in the mobile app by uploading an image, triggering an Optical Character Recognition (OCR) algorithm. This advanced OCR mechanism extracts text content from the screenshot, transforming it into a structured format.
 
-The extracted text data undergoes Base64 encoding, enhancing security and efficiency during transmission to the centralized Python server. The securely transmitted data includes both the Base64-encoded text and the original screenshot image, ensuring data integrity throughout the process.
+To ensure data integrity and privacy during the transport process to the centralized servers, the data is first encrypted in a Base64 format to ensure maximum security and then constructed into an encrypted 3D Matrix for maximum obfuscation. The securely transmitted data includes both the Base64-encoded screenshot image and the extracted text, ensuring data integrity throughout the process.
 
 On the server side, machine learning algorithms analyze the Base64-encoded text data and concurrently examine the screenshot image for the presence of dark patterns. If identified, the Python server dynamically modifies the image to highlight detected dark patterns while preserving the original context.
 
