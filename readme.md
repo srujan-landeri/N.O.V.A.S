@@ -58,8 +58,6 @@ In this guide, we'll explore how N.O.V.A.S operates and how it empowers you to n
 
 [Dark Patterns Busters Hackathon 2023 Presentation - by Team NOVAS](/DPBH_2023_Presentation.pdf)
 
-<br>
-
 ## Approach
 
 ### Semantic Analysis
