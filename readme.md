@@ -10,6 +10,8 @@ In this guide, we'll explore how N.O.V.A.S operates and how it empowers you to n
 
 ## Table Of Contents
 
+1. [Application Demo](#application-demo)
+
 1. [Presentation](#presentation)
 
 2. [Approach](#approach)
@@ -38,12 +40,12 @@ In this guide, we'll explore how N.O.V.A.S operates and how it empowers you to n
     - [Key Features](#key-features)
     - [Integration](#integration-1)
       
-6. [Setting up Chrome Extension](#setting-up-chrome-extension)
+7. [Setting up Chrome Extension](#setting-up-chrome-extension)
 
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
       
-7. [Seting Up Mobile Application](#seting-up-mobile-application)
+8. [Seting Up Mobile Application](#seting-up-mobile-application)
     - [Setting up the Flutter SDK](#setting-up-the-flutter-sdk)
     - [Extracting NOVA and Setting up Dependencies:](#extracting-nova-and-setting-up-dependencies)
     - [Connecting to the Backend:](#connecting-to-the-backend)
@@ -52,12 +54,16 @@ In this guide, we'll explore how N.O.V.A.S operates and how it empowers you to n
     - [Using the App on Mobile:](#using-the-app-on-mobile)
     - [Using the Application:](#using-the-application)
 
-8. [Future Scope](#future-scope)
+9. [Future Scope](#future-scope)
+
+## Application Demo
+
+[Complete Demonstration of NOVAS - A Dark Patterns detector](https://drive.google.com/drive/folders/1mEAcvC9vDaUTSqy86QdISxwjSfUA3MdY?usp=sharing)
 
 ## Presentation
 
 [Dark Patterns Busters Hackathon 2023 Presentation - by Team NOVAS](/DPBH_2023_Presentation.pdf)
-![Complete Demonstration of NOVAS - A Dark Patterns detector](https://drive.google.com/drive/folders/1mEAcvC9vDaUTSqy86QdISxwjSfUA3MdY?usp=sharing)
+
 
 ## Approach
 
