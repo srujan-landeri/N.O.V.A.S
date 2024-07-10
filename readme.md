@@ -57,6 +57,7 @@ In this guide, we'll explore how N.O.V.A.S operates and how it empowers you to n
 ## Presentation
 
 [Dark Patterns Busters Hackathon 2023 Presentation - by Team NOVAS](/DPBH_2023_Presentation.pdf)
+![Complete Demonstration of NOVAS - A Dark Patterns detector](https://drive.google.com/drive/folders/1mEAcvC9vDaUTSqy86QdISxwjSfUA3MdY?usp=sharing)
 
 ## Approach
 
